@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="indicate">#31c21c</color>
+    <color name="white">#7fff</color>
+    <color name="white_gray">#77d9cdcd</color>
+</resources>
